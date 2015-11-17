@@ -72,3 +72,6 @@ To apply the router to your app:
 ```
 accountsRouter.routify(app);
 ```
+### API Documentation
+
+http://cameojokes.github.io/restify-routify
